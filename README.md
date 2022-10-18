@@ -8,7 +8,7 @@
 5. github上傳
 
 # week07
-1.考試:畫星星
-2.最大公因數 long long int
-3.輾轉相除法 long long int
-4.剝皮法
+1. 考試:畫星星
+2. 最大公因數 long long int
+3. 輾轉相除法 long long int
+4. 剝皮法
