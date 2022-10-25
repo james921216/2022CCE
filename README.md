@@ -12,3 +12,5 @@
 2. 最大公因數 long long int
 3. 輾轉相除法 long long int
 4. 剝皮法
+# week08
+1. 考試
